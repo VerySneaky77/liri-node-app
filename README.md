@@ -18,10 +18,10 @@ The command "do-what-it-says" reads a command from an external file named "rando
 
 ### Samples
 
-![movie-this in node terminal](https://github.com/VerySneaky77/liri-node-app/tree/master/images/movie-this-capture.png?raw=true "movie-this Screen Capture")
+![movie-this in node terminal](https://github.com/VerySneaky77/liri-node-app/blob/master/images/concert-this-capture.PNG?raw=true "movie-this Screen Capture")
 
-![spotify-this-song in node terminal](https://github.com/VerySneaky77/liri-node-app/tree/master/images/spotify-this-song-capture.png?raw=true "spotify-this-song Screen Capture")
+![spotify-this-song in node terminal](https://github.com/VerySneaky77/liri-node-app/blob/master/images/concert-this-capture.PNG?raw=true "spotify-this-song Screen Capture")
 
-![concer-this in node terminal](https://github.com/VerySneaky77/liri-node-app/tree/master/images/concert-this.png?raw=true "concert-this Screen Capture")
+![concer-this in node terminal](https://github.com/VerySneaky77/liri-node-app/blob/master/images/concert-this-capture.PNG?raw=true "concert-this Screen Capture")
 
-![do-what-it-says in node terminal](https://github.com/VerySneaky77/liri-node-app/tree/master/images/do-what-it-says.png?raw=true "do-what-it-says Screen Capture")
+![do-what-it-says in node terminal](https://github.com/VerySneaky77/liri-node-app/blob/master/images/concert-this-capture.PNG?raw=true "do-what-it-says Screen Capture")
