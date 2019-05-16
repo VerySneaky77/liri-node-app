@@ -18,10 +18,10 @@ The command "do-what-it-says" reads a command from an external file named "rando
 
 ### Samples
 
-![movie-this in node terminal](/images/movie-this-capture.png?raw=true "movie-this Screen Capture")
+![movie-this in node terminal](https://verysneaky77.github.io/liri-node-app/images/movie-this-capture.png?raw=true "movie-this Screen Capture")
 
-![spotify-this-song in node terminal](/images/spotify-this-song-capture.png?raw=true "spotify-this-song Screen Capture")
+![spotify-this-song in node terminal](https://verysneaky77.github.io/liri-node-app/images/spotify-this-song-capture.png?raw=true "spotify-this-song Screen Capture")
 
-![concer-this in node terminal](/images/concert-this.png?raw=true "concert-this Screen Capture")
+![concer-this in node terminal](https://verysneaky77.github.io/liri-node-app/images/concert-this.png?raw=true "concert-this Screen Capture")
 
-![do-what-it-says in node terminal](/images/do-what-it-says.png?raw=true "do-what-it-says Screen Capture")
+![do-what-it-says in node terminal](https://verysneaky77.github.io/liri-node-app/images/do-what-it-says.png?raw=true "do-what-it-says Screen Capture")
