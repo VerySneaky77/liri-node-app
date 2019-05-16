@@ -18,7 +18,7 @@ The command "do-what-it-says" reads a command from an external file named "rando
 
 ### Samples
 
-<div><img src="images/movie-this-capture.png"></div>
+![movie-this in node terminal](https://github.com/VerySneaky77/liri-node-app/blob/master/images/concert-this-capture.PNG?raw=true "movie-this Screen Capture")
 
 ![spotify-this-song in node terminal](https://github.com/VerySneaky77/liri-node-app/blob/master/images/concert-this-capture.PNG?raw=true "spotify-this-song Screen Capture")
 
